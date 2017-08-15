@@ -1,5 +1,5 @@
 {
-  "name": "poloniex.js",
+  "name": "@korynunn/poloniex.js",
   "version": "0.0.8",
   "description": "Poloniex API client",
   "author": "Premasagar Rose <p@premasagar.com>",
@@ -14,7 +14,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/premasagar/poloniex.js.git"
+    "url": "https://github.com/korynunn/poloniex.js.git"
   },
   "keywords": [
     "poloniex",
@@ -24,7 +24,7 @@
     "altcoins"
   ],
   "bugs": {
-    "url": "https://github.com/premasagar/poloniex.js/issues"
+    "url": "https://github.com/korynunn/poloniex.js/issues"
   },
   "engines": {
     "node": ">=0.10"
